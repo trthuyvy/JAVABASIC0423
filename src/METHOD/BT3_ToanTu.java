@@ -1,5 +1,5 @@
 package METHOD;
 
 public class BT3_ToanTu {
-    int
+    static  int x = 5;
 }
