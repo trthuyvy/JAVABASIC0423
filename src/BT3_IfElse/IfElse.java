@@ -1,4 +1,4 @@
-package ToanTu;
+package BT3_IfElse;
 
 public class IfElse {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package PhuongThuc;
+package BT2_Method;
 
 public class Caculator {
 
