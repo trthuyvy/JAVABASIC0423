@@ -1,4 +1,4 @@
-package METHOD;
+package PhuongThuc;
 
 public class Caculator {
 
