@@ -3,12 +3,11 @@ package BT3_IfElse;
 public class IfElse {
     public static void main(String[] args) {
 
-        int a = 4;
-        int b = 7;
-        int n = 4;
+        int number = 100;
+        int n = 5;
 
-        boolean checkN1 = ((a == n) && (n < b));
-        boolean checkN2 = ((a == n) && (n > b));
+        boolean checkN1 = ((n == number) || (n < number));
+        boolean checkN2 = ((n != number) && (number > n));
 
         String  expectedText = "Giá trị n hợp lệ";
         String actual = "Giá trị n hợp lệ";
