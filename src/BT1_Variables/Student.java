@@ -13,8 +13,9 @@ public class Student {
         Student st = new Student();
 
         System.out.println("Họ tên sinh viên :" + st.fullName);
-        System.out.println("Tên sinh viên: " + firstName);
+        System.out.println("Tên sinh viên: " + Thongtin.firstName);
         System.out.println("Họ sinh viên: " + lastName);
+        System.out.println("Khóa học của sinh viên: " + Thongtin.Khoahoc);
     }
 }
 
