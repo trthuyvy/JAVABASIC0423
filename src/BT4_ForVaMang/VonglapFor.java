@@ -1,4 +1,4 @@
-package BT4_ForVaMAng;
+package BT4_ForVaMang;
 
 public class VonglapFor {
     public static void main(String[] args) {
